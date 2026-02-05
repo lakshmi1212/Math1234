@@ -1,7 +1,9 @@
+# math_operations.py
+
 def add(a, b):
-    """Add two numbers and return the result."""
+    """Return the sum of a and b."""
     return a + b
 
 def subtract(a, b):
-    """Subtract b from a and return the result."""
+    """Return the difference of a and b (a - b)."""
     return a - b
